@@ -1,0 +1,107 @@
+/* header */
+
+#menu {
+}
+
+#menu ul {
+  list-style: none;
+  /* text-align: center; */
+  /* margin-left: auto;
+  margin-right: auto; */
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  align-items: center;
+}
+
+#menu ul li {
+  margin-left: 50px;
+  font-size: 7px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#LAMINA {
+  font-size: 30px !important;
+  /* font-weight: bold; */
+  margin-left: 70px !important;
+  margin-right: 20px !important;
+}
+
+/* nakami */
+
+/* .parent {
+  width: 300px;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #aaa;
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.midasi-image {
+  height: 100px;
+  width: 100px;
+  vertical-align: middle;
+}
+
+.inner {
+  width: 220px;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 10px;
+}
+
+.midasi-image:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: "";
+  border: 4px solid #000;
+} */
+
+/* #nakamiiii {
+  align: center;
+}
+
+#nakmi-image {
+  vertical-align: middle;
+}
+
+.nakami {
+  vertical-align: middle;
+} */
+
+div.test {
+  vertical-align: middle;
+}
+
+div.test p {
+  display: table-cell;
+  vertical-align: middle;
+  margin: 0;
+}
+
+#sita {
+  padding-left: 20px;
+}
+
+#nakami-a {
+  font-weight: bold;
+}
+
+#nakami-b {
+  font-family: serif;
+  font-size: 90px;
+}
+#nakami-c {
+  line-height: 50%;
+  color: #333;
+}
+#nakami-d {
+  line-height: 500%;
+  color: #888;
+  text-decoration: underline;
+}
